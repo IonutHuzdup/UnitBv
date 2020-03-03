@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Finfo\UnitBv\SD\LabI\LabI\Source.cpp(8,16): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Finfo\UnitBv\SD\LabI\LabI\Source.cpp(194,81): warning C4101: 'j': unreferenced local variable
+E:\Finfo\UnitBv\SD\LabI\LabI\Source.cpp(407,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LabI.vcxproj -> E:\Finfo\UnitBv\SD\LabI\Debug\LabI.exe
