@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\Huzdup Ionut\source\repos\Teama\Teama\Source.cpp(8,16): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\Huzdup Ionut\source\repos\Teama\Teama\Source.cpp(194,66): warning C4101: 'j': unreferenced local variable
-C:\Users\Huzdup Ionut\source\repos\Teama\Teama\Source.cpp(407,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Teama.vcxproj -> C:\Users\Huzdup Ionut\source\repos\Teama\Debug\Teama.exe
